@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/kapthoka/.dotnet/store/|arch|/|tfm|",
+      "/home/kapthoka/.nuget/packages"
+    ]
+  }
+}
